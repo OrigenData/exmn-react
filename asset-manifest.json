@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/exmn-react/static/css/main.f3ba88ef.chunk.css",
+    "main.js": "/exmn-react/static/js/main.5a13420d.chunk.js",
+    "main.js.map": "/exmn-react/static/js/main.5a13420d.chunk.js.map",
+    "runtime-main.js": "/exmn-react/static/js/runtime-main.a01b4bb6.js",
+    "runtime-main.js.map": "/exmn-react/static/js/runtime-main.a01b4bb6.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/exmn-react/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.3abb1c4c.chunk.js": "/exmn-react/static/js/2.3abb1c4c.chunk.js",
+    "static/js/2.3abb1c4c.chunk.js.map": "/exmn-react/static/js/2.3abb1c4c.chunk.js.map",
+    "static/js/3.6e5304e1.chunk.js": "/exmn-react/static/js/3.6e5304e1.chunk.js",
+    "static/js/3.6e5304e1.chunk.js.map": "/exmn-react/static/js/3.6e5304e1.chunk.js.map",
+    "index.html": "/exmn-react/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/exmn-react/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.f3ba88ef.chunk.css.map": "/exmn-react/static/css/main.f3ba88ef.chunk.css.map",
+    "static/js/2.3abb1c4c.chunk.js.LICENSE.txt": "/exmn-react/static/js/2.3abb1c4c.chunk.js.LICENSE.txt",
+    "static/media/fuen_fin.411b3fd3.png": "/exmn-react/static/media/fuen_fin.411b3fd3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a01b4bb6.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.3abb1c4c.chunk.js",
+    "static/css/main.f3ba88ef.chunk.css",
+    "static/js/main.5a13420d.chunk.js"
+  ]
+}
